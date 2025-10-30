@@ -12,3 +12,6 @@ Choose between **Snake**, **Water**, or **Gun**, and see if you can beat the com
 ✅ Cool hover and glow effects  
 ✅ Fully responsive design 
 
+## 📸 Screenshot
+
+![Snake Water Gun Preview](image.png)
